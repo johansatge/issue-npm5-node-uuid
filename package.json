@@ -1,0 +1,8 @@
+{
+  "name": "test-npm5",
+  "version": "1.0.0",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-transifex-resjson": "^0.3.3"
+  }
+}
