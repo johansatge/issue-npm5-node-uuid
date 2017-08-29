@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "grunt": "^1.0.1",
-    "grunt-transifex-resjson": "^0.3.3"
+    "grunt-transifex-resjson": "^0.3.3",
+    "request": "^2.81.0"
   }
 }
